@@ -30,16 +30,12 @@ In this case study, a retail company recently implemented a transaction recordin
 | Profit | Total profit generated |
 
 ## Key Insights
-
 ### Sales Performance
 Revenue increased significantly throughout 2022 before declining toward the end of the period, indicating potential seasonal effects or changes in customer demand.
-
 ### Payment Method Analysis
 COD contributed the highest transaction volume and revenue, indicating strong customer preference for direct payment methods.
-
 ### Product Performance
 IDROID_BALRX7_Gold was the best-selling product and significantly outperformed other products.
-
 ### Discount Allocation
 The Entertainment category received the highest discount allocation among all categories.
 
