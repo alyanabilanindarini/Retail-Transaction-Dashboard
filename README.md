@@ -15,10 +15,6 @@ In this case study, a retail company recently implemented a transaction recordin
 5. Analyze discount spending across categories.
 6. Review transaction summaries by product and customer.
 
-## Dashboard Preview
-
-![Dashboard](Transaction_Dashboard.pdf)
-
 ## Key Performance Indicators (KPIs)
 
 | Metric | Description |
